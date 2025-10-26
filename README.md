@@ -34,7 +34,7 @@
 .
 ├── main.py                   # Streamlit app (ingest, index, RAG chat)            <- run this
 ├── requirements.txt          # Pinned dependencies
-├── env.txt                   # Example env file (OPENAI_API_KEY placeholder)
+├── .env                   # Example env file (OPENAI_API_KEY placeholder)
 └── DBS.pkl    # (generated) persisted FAISS index after processing
 ```
 
